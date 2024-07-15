@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogitahire
 - 👀 I’m interested in python Django
-- 🌱 I’m currently learning php-laravel
+- 🌱 I’m currently working on php-laravel
 - 📫 How to reach me yogitahire@gmail.com
 
 <!---
